@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Heyy, I'm Hemanth! 👋
+- 🔭 I’m currently working on mettu, a static site generator
+- 🌱 I’m currently pursuing BTech CSE at PES University
+- 📫 How to reach me: [mail](mailto:andy34g7@gmail.com)
+- 😄 Pronouns: he/him
 <!--
 **Andy34G7/Andy34G7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
